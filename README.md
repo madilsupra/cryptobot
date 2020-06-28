@@ -1,0 +1,2 @@
+# cryptobot
+Bot for Faucetcrypto
