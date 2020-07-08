@@ -1,3 +1,3 @@
 # cryptobot
 Bot for Faucetcrypto
-![CryptoBot Icon](logo.png)
+![CryptoBot Icon](cryptobot-data/logo.png)
