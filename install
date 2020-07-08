@@ -1,0 +1,31 @@
+#!/bin/bash
+# CryptoBot Setup
+# Coded by Madil Supra
+
+softPath='/usr/local/bin'
+extPath='/tmp/cryptobot-extensions'
+voicePath='/tmp/cryptobot-voice'
+
+echo '[*] Updating Repository ...'
+sudo apt update
+
+echo '[*] Installing python3 ...'
+sudo apt install python3 -y
+
+sudo python3 decode
+
+echo '[*] Managing Files ...'
+test -r $softPath/cryptobot-community && sudo rm -r $softPath/cryptobot-community
+test -r $softPath/cryptobot-community || sudo cp -r cryptobot-data/cryptobot $softPath/cryptobot-community
+test -r $extPath || mkdir $extPath
+test -r $voicePath || mkdir $voicePath
+test -r $extPath/xTab.crx || cp cryptobot-data/xTab.crx $extPath/
+test -r $voicePath/login.mp3 || cp cryptobot-data/voice/*.mp3 $voicePath/
+
+echo 'alias cryptobot="python3 /usr/local/bin/cryptobot-community"' >> ~/.bashrc
+
+echo '[*] Installing Requirements ...'
+sudo apt install  python3-pip chromium-chromedriver chromium-browser chromium-lwn4chrome chromium-browser-l10n -y
+pip3 install selenium playsound
+
+echo '[*] Finish'
