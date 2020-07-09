@@ -16,7 +16,7 @@ Installation
 Support
 -------
 - This version only support for PTC clicks
-  (creating future versions are depend on users and donations)
+  (**creating future versions are depend on users and donations**)
 
 Options
 -------
@@ -30,5 +30,5 @@ Options
 Donations
 ---------
 [![QR Code](cryptobot-data/QR.png)](https://github.com/madilsupra/cryptobot)
-- BTC : 1KscJiY4iMr3UdPiVFCGjqy5V12aCtk1Li (or scan the QR code given above)
+- BTC : **1KscJiY4iMr3UdPiVFCGjqy5V12aCtk1Li** (or scan the **QR code** given above)
 
