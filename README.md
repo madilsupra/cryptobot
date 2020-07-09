@@ -18,6 +18,11 @@ Support
 - This version only support for PTC clicks
   (**creating future versions are depend on users and donations**)
 
+Usage
+-----
+If you are a Sri Lankan, please visit the folder 'user guide' and use the user guide.
+(ඔබ ශ්‍රී ලාංකිකයෙයකු නම් කරුණනාකර 'user guide' යන ෆෝල්ඩරය වෙත පිවිස පරිශීලක අත්පොත භාවිතා කරන්න)
+
 Options
 -------
     -a / --about         -    About Software
