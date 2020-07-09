@@ -16,7 +16,7 @@ Installation
 Support
 -------
 - This version only support for PTC clicks
-  (future versions are depend on users and donations)
+  (creating future versions are depend on users and donations)
 
 Options
 -------
