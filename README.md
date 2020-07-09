@@ -28,5 +28,6 @@ Options
 
 Donations
 ---------
-- BTC : 1KscJiY4iMr3UdPiVFCGjqy5V12aCtk1Li (or scan the QR code given below)
-[![QR Code](cryptobot-data/QR.png)](https://)
+[![QR Code](cryptobot-data/QR.png)](https://github.com/madilsupra/cryptobot)
+- BTC : 1KscJiY4iMr3UdPiVFCGjqy5V12aCtk1Li (or scan the QR code given above)
+
