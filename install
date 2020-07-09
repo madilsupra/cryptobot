@@ -29,3 +29,5 @@ sudo apt install  python3-pip chromium-chromedriver chromium-browser chromium-lw
 pip3 install selenium playsound
 
 echo '[*] Finish'
+sleep 3
+exit
