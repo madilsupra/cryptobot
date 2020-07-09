@@ -4,7 +4,7 @@
 
 # CryptoBot
 
-Bot for faucetcrypto
+Bot for faucetcrypto.com
 
 Installation
 -------------
