@@ -12,6 +12,10 @@ Installation
     git clone https://github.com/madilsupra/cryptobot
     cd cryptobot
     chmod +x install && ./install
+    
+Support
+-------
+- This version only supports PTC clicks
 
 Options
 -------
@@ -21,3 +25,8 @@ Options
     -h / --help          -    Print this help menu
     -u / --user-profile  -    Store and reuse browser history, caches, cookies, etc.
     -v / --voice         -    To activate the 'Robot Voice'
+
+Donations
+---------
+- BTC : 1KscJiY4iMr3UdPiVFCGjqy5V12aCtk1Li (or scan the QR code given below)
+![QR Code](cryptobot-data/QR.png)
