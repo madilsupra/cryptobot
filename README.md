@@ -1,6 +1,6 @@
 ![CryptoBot](cryptobot-data/logo.png)
 
-[![Author](https://img.shields.io/badge/coded%20by-madil%20supra-yellow)](https://github.com/madilsupra)  [![Langiage](https://img.shields.io/badge/language-python3-geen)](https://python.org)  [![Platform](https://img.shields.io/badge/platform-linux-blue)](https://github.com/madilsupra/cryptobot) [![Version](https://img.shields.io/badge/version-1.0-red)](https://github.com/madilsupra/cryptobot)
+[![Author](https://img.shields.io/badge/coded%20by-madil%20supra-yellow)](https://github.com/madilsupra)  [![Langiage](https://img.shields.io/badge/language-python3-geen)](https://python.org)  [![Platform](https://img.shields.io/badge/os platform-linux-blue)](https://github.com/madilsupra/cryptobot) [![Version](https://img.shields.io/badge/version-1.0-red)](https://github.com/madilsupra/cryptobot)
 
 # CryptoBot
 
