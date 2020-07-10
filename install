@@ -32,4 +32,4 @@ pip3 install selenium playsound
 
 echo '[*] Finish'
 sleep 3
-reboot
+sudo reboot
