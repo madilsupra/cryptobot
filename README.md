@@ -17,7 +17,9 @@ Advantages
 ----------
   * Complete the tasks before the 'Continue' buttons are displayed.
   * Complete all tasks in one turn
-  * Faster than all Faucetcrypto bots
+  * Faster than all Faucetcrypto bots.
+  (Watch the video)
+  ![Watched the Video](user guide/How CryptoBot Works.mp4)
 
 Support
 -------
