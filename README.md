@@ -13,6 +13,12 @@ Installation
     cd cryptobot
     chmod +x install && ./install
     
+Advantages
+----------
+  * Complete the task before the 'Continue' button are displayed.
+  * Complete all tasks in one turn
+  * Faster than all Faucetcrypto bots
+
 Support
 -------
 - This version only support for PTC clicks
