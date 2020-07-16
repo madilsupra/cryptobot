@@ -21,7 +21,7 @@ Support
 Usage
 -----
 Command:
-   **cryptobot -v -u <browser-data-profile(ANY NAME)> -d <delay time in Days:Hours:Minutes:Seconds>
+   **cryptobot -v -u <browser-data-profile> -d **<delay time>
 
 Examples:
 
