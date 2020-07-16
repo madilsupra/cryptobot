@@ -15,7 +15,7 @@ Installation
     
 Advantages
 ----------
-  * Complete the task before the 'Continue' button are displayed.
+  * Complete the tasks before the 'Continue' buttons are displayed.
   * Complete all tasks in one turn
   * Faster than all Faucetcrypto bots
 
