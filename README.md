@@ -21,7 +21,8 @@ Support
 Usage
 -----
 Command:
-   **cryptobot -v -u <browser-data-profile(ANY NAME)> -d <delay time in Days:Hours:Minutes:Seconds>**
+   **cryptobot -v -u <browser-data-profile(ANY NAME)> -d <delay time in Days:Hours:Minutes:Seconds>
+
 Examples:
 
     cryptobot -v -u yourUserAccountNameOrEmail -d 90061  (delay time: 90061 seconds [1 day, 1 hour, 1 minute, 1 second])
