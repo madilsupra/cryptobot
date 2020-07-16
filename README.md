@@ -20,6 +20,7 @@ Support
 
 Usage
 -----
+    **cryptobot -v -u <browser-data-profile> -d <delay time in Days:Hours:Minutes:Seconds>
 If you are a Sri Lankan, please visit the folder 'user guide' and use the user guide.
 
 Options
