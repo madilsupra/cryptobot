@@ -20,11 +20,11 @@ Support
 
 Usage
 -----
-**Command format:
+**Command format:**
 
     cryptobot -v -u <any name> -d <delay time>
 
-**Examples:
+**Examples:**
 
     cryptobot -v -u yourUserAccountNameOrEmail -d 90061
     (delay time: 90061 seconds [1 day, 1 hour, 1 minute, 1 second])
